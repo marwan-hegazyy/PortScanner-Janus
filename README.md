@@ -21,8 +21,8 @@
 
 1. **استنسخ المشروع (Clone):**
    ```bash
-   git clone [https://github.com/USERNAME/REPOSITORY_NAME.git](https://github.com/USERNAME/REPOSITORY_NAME.git)
-   cd REPOSITORY_NAME
+   git clone https://github.com/marwan-hegazyy/PortScanner-Janus.git
+   cd PortScanner
 
 
 2.شغل الاسكربت
